@@ -3,9 +3,6 @@
 '''
 This script will help you take out all strings.xml(Placed in a language-region folder) from an Android projectDir
 We now use it to provide the strings and upload them to Crowdin.
-
-
-
 '''
 from os import system,listdir,path
 from sys import argv
